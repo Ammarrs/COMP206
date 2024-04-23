@@ -1,0 +1,3 @@
+2 attr. in form in  php (imp)
+1. method = "git/post" // 
+2. action = "" // wanna make action as in the page or other pages
